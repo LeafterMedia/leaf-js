@@ -29,7 +29,7 @@ $ npm install @leafter/leaf-js
 ```
 
 ## Config
-Default config should work with leaf. however you can change it to work with leaf/golos
+Default config should work with leaf. however you can change it to work with golos
 as 
 ```js
 leaf.api.setOptions({ url: 'wss://ws.golos.io' }); // assuming websocket is work at ws.golos.io
